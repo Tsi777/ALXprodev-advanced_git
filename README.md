@@ -4,6 +4,7 @@ This repository showcases advanced Git practices as part of the ALX Professional
 📁 Project Structure
 login-page
 README.md — Documentation for the login page component
+
 signup-page
 README.md — Documentation for the signup page component
 README.md — This file
@@ -12,6 +13,7 @@ README.md — This file
 ✅ Pre-commit Hook
 Purpose: Ensures that each subdirectory in the repository has a README.md file.
 Behavior: Blocks commits if any directory is missing a README.md, upholding documentation standards.
+
 ✅ Post-merge Hook
 Purpose: Records all successful merges into the main branch.
 Behavior: After a merge into the main branch, it adds a log entry with details about the merge.
